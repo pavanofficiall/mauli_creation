@@ -118,7 +118,7 @@ p{
  }
 
 .bgimg1{
-    background-image: url("img/bg cloths/women cloth.jpg");
+    background-image: url("women cloth.jpg");
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
@@ -126,7 +126,7 @@ p{
     background-size: cover;
 }
 .bgimg2{
-    background-image: url("img/bg cloths/bgimg2.jpg");
+    background-image: url("bgimg2.jpg");
     min-height: 500px; 
     background-attachment: fixed;
     background-position: center;
